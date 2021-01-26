@@ -1,0 +1,29 @@
+#app {
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  color: #2c3e50;
+  margin-top: 60px;
+}
+
+.menu li{
+  list-style: none;
+  display: inline-block;
+  padding: 0px 10px;
+}
+.menu{
+  position: absolute;
+  right: 0px;
+}
+.topnav {
+  display: flex;
+  background: lightpink;
+  border: none;
+  line-height: 10px;
+  position: relative;
+}
+
+.logo{
+  margin: 15px ;
+}
